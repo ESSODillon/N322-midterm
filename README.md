@@ -1,5 +1,3 @@
-- the name of the project
-- your name
-- describe the work done on other branches
-
-The description doesn't need to be long. Make it clear which branch you are describing. 
+- n322 Midterm Project
+- Dillon Polley
+- Each branch was used to create their respective pages, then merged into a master branch. 
